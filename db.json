@@ -1,0 +1,59 @@
+{
+cities: [
+  {
+    "city": "Kazanka", 
+    "lat": "47.8381", 
+    "lng": "32.8261", 
+    "country": "Ukraine", 
+    "iso2": "UA", 
+    "admin_name": "Mykolayivs’ka Oblast’", 
+    "capital": "minor", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Mykolaivka", 
+    "lat": "47.5389", 
+    "lng": "30.7528", 
+    "country": "Ukraine", 
+    "iso2": "UA", 
+    "admin_name": "Odes’ka Oblast’", 
+    "capital": "minor", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Milove", 
+    "lat": "49.3778", 
+    "lng": "40.1306", 
+    "country": "Ukraine", 
+    "iso2": "UA", 
+    "admin_name": "Luhans’ka Oblast’", 
+    "capital": "minor", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Nyzhni Sirohozy", 
+    "lat": "46.8395", 
+    "lng": "34.3760", 
+    "country": "Ukraine", 
+    "iso2": "UA", 
+    "admin_name": "Khersons’ka Oblast’", 
+    "capital": "minor", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ivanivka", 
+    "lat": "46.7100", 
+    "lng": "34.5500", 
+    "country": "Ukraine", 
+    "iso2": "UA", 
+    "admin_name": "Khersons’ka Oblast’", 
+    "capital": "minor", 
+    "population": "", 
+    "population_proper": ""
+  }
+  ]
+}
