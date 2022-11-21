@@ -1,5 +1,6 @@
 {
-cities: [
+cities: 
+  [
   {
     "city": "Kazanka", 
     "lat": "47.8381", 
@@ -55,5 +56,5 @@ cities: [
     "population": "", 
     "population_proper": ""
   }
-  ]
+ ]
 }
